@@ -1,2 +1,2 @@
--r common.txt
+-r req.txt
 faker==0.7.18
