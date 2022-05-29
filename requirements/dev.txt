@@ -1,2 +1,3 @@
 -r req.txt
 faker==0.7.18
+httpie==3.2.1
